@@ -1,0 +1,15 @@
+table tr td {
+    border: solid 1px black;
+    height: 70px;
+    width: 70px;
+    
+}
+
+table {
+    border-collapse: collapse;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
